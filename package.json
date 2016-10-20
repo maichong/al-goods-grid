@@ -1,0 +1,24 @@
+{
+  "name": "al-goods-grid",
+  "version": "0.1.0",
+  "description": "AL goods grid",
+  "keywords": [
+    "alaska",
+    "labrador"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/al-goods-grid.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/al-goods-grid/issues"
+  },
+  "homepage": "https://github.com/maichong/al-goods-grid#readme",
+  "author": {
+    "email": "lulu@maichong.it",
+    "name": "lulu",
+    "url": "https://github.com/lulu-maichong"
+  }
+}
