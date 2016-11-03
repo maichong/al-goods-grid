@@ -13,7 +13,7 @@ npm i al-goods-grid
 import Grid from 'al-goods-grid';
 children={
   grid: new Grid({
-    ...
+    //...
   });
 };
 ```

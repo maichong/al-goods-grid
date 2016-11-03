@@ -28,26 +28,6 @@ export default class GoodsGrid extends wx.Component {
     })
   };
 
-  onLoad() {
-
-  }
-
-  onReady() {
-
-  }
-
-  onShow() {
-
-  }
-
-  onHide() {
-
-  }
-
-  onUnload() {
-
-  }
-
   onUpdate(props) {
     this.setData({ items: props.items });
   }

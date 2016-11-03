@@ -25,28 +25,6 @@ export default class Item extends wx.Component {
         price: ''
     };
 
-    children = {};
-
-    onLoad() {
-
-    }
-
-    onReady() {
-
-    }
-
-    onShow() {
-
-    }
-
-    onHide() {
-
-    }
-
-    onUnload() {
-
-    }
-
     onUpdate(props) {
         this.setData({
             id: props.id,
