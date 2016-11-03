@@ -5,7 +5,7 @@
  */
 
 import wx from 'labrador';
-import GoodsGridItem from 'al-goods-grid-item';
+import Item from './item';
 
 const { array, func } = wx.PropTypes;
 
@@ -19,7 +19,7 @@ export default class GoodsGrid extends wx.Component {
   };
 
   children = {
-    listItems: new wx.List(GoodsGridItem, 'items', {
+    listItems: new wx.List(Item, 'items', {
       id: '>id',
       pic: '>pic',
       title: '>title',

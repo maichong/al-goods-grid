@@ -1,3 +1,3 @@
 <view class="al-goods-grid border-box flex flex-wrap content-stretch border">
-  <list key="listItems" name="al-goods-grid-item" />
+  <list key="listItems" name="al-goods-grid/item" />
 </view>

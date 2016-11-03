@@ -1,0 +1,9 @@
+<view class="al-goods-grid-item border-box col-6 border padding-bottom-small" catchtap="handleGoodsClick">
+    <view class="al-goods-grid-hd">
+        <image class="al-goods-grid-hd-image" src="{{pic}}"></image>
+    </view>
+    <view class="al-goods-grid-item-name center truncate">{{title}}</view>
+    <view class="center al-goods-grid-item-price">￥{{price}}</view>
+    <view class="padding-top-small center truncate">{{title}}</view>
+</view>
+
